@@ -1,13 +1,13 @@
-package com.sim.redis;
+package com.sim.redistest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RedisApplication {
+public class RedisTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RedisApplication.class, args);
+		SpringApplication.run(RedisTestApplication.class, args);
 	}
 
 }

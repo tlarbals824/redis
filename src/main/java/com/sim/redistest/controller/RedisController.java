@@ -1,4 +1,4 @@
-package com.sim.redis.controller;
+package com.sim.redistest.controller;
 
 import java.util.Map;
 
